@@ -1,0 +1,12 @@
+References
+
+1.	Ogawa S, Lee TM, Kay AR, Tank DW. Brain magnetic resonance imaging with contrast dependent on blood oxygenation. Proc Natl Acad Sci USA. 1990 Dec;87(24):9868–72 doi.org/10.1073/pnas.87.24.9868
+2.	Macé E, Montaldo G, Cohen I, Baulac M, Fink M, Tanter M. Functional ultrasound imaging of the brain. Nat Methods. 2011 Aug;8(8):662–4 doi.org/10.1038/nmeth.1641
+3.	Pysz MA, Gambhir SS, Willmann JK. Molecular imaging: current status and emerging strategies. Clin Radiol. 2010 Jul;65(7):500–16 doi.org/10.1016/j.crad.2010.03.011
+4.	Yeh HW, Wu T, Chen M, Ai H wang. Identification of Factors Complicating Bioluminescence Imaging. Biochemistry. 2019 Mar 26;58(12):1689–97 doi.org/10.1021/acs.biochem.8b01303
+5.	Dothager RS, Flentie K, Moss B, Pan MH, Kesarwala A, Piwnica-Worms D. Advances in bioluminescence imaging of live animal models. Current Opinion in Biotechnology. 2009 Feb;20(1):45–53 doi.org/10.1016/j.copbio.2009.01.007
+6.	Ohlendorf R, Wiśniowska A, Desai M, Barandov A, Slusarczyk AL, Li N, et al. Target-responsive vasoactive probes for ultrasensitive molecular imaging. Nat Commun. 2020 May 13;11(1):2399 doi.org/10.1038/s41467-020-16118-7
+7.	Ohlendorf R, Li N, Phi Van VD, Schwalm M, Ke Y, Dawson M, et al. Imaging bioluminescence by detecting localized haemodynamic contrast from photosensitized vasculature. Nat Biomed Eng. 2024 May 10;8(6):775–86.
+8.	Su Y, Walker JR, Hall MP, Klein MA, Wu X, Encell LP, et al. An optimized bioluminescent substrate for non-invasive imaging in the brain. Nat Chem Biol. 2023 Jun;19(6):731–9 doi.org/10.1038/s41551-024-01210-w
+9.	Tian X, Zhang Y, Li X, Xiong Y, Wu T, Ai HW. A luciferase prosubstrate and a red bioluminescent calcium indicator for imaging neuronal activity in mice. Nat Commun. 2022 Jul 8;13(1):3967 doi.org/10.1038/s41467-022-31673-x
+10.	Petersen ED, Lapan AP, Castellanos Franco EA, Fillion AJ, Crespo EL, Lambert GG, et al. Bioluminescent Genetically Encoded Glutamate Indicators for Molecular Imaging of Neuronal Activity. ACS Synth Biol. 2023 Aug 18;12(8):2301–9 doi.org/10.1021/acssynbio.2c00687
